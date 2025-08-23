@@ -1,6 +1,6 @@
 # BlogCraft 📝
 
-A simple blogging app enabling users to create, edit, and delete blog posts.
+A simple blogging app enabling users to create, edit, and delete blog posts.These blog posts persist and can be retrieved anytime with the help of database.
 
 ## Features
 
