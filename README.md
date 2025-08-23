@@ -1,12 +1,13 @@
 # BlogCraft 📝
 
-A simple blogging app using Node.js, Express, EJS, and PostgreSQL. Users can create, edit, and delete blog posts.
+A simple blogging app enabling users to create, edit, and delete blog posts.
 
 ## Features
 
 - Create, update, delete posts
 - PostgreSQL for database
 - EJS for templating
+- Minimial UI
 
 ## Technologies
 
